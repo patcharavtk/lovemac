@@ -1,7 +1,7 @@
 def lovemac(input)
 
 	for x in 1..input
-# looping for findin i mod equal 0
+# looping by using x as a condition (check divisble by mod = 0)
 	if x % 3 == 0 
 			if x % 5 == 0
 				puts "HateWindows"
